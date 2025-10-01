@@ -1,0 +1,51 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 417c4d04-39e2-3e41-d71c-2c6c3222a8cc
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 75a507aa-4e0c-6d4c-fb93-c81fa40d6878
+  name: De/Constructing Western History
+  pageRef: /pages/de-constructing-western-history
+  weight: 20
+- identifier: 662625a2-e35d-a1c6-7dea-fcea7b8b5ca2
+  name: 'National History: United States'
+  pageRef: /pages/national-history-united-states
+  weight: 30
+- identifier: f9df138b-1218-863d-4a9f-fa14df1001cb
+  name: Borderlands
+  pageRef: /pages/borderlands
+  weight: 40
+- identifier: 54cdfc91-e734-db6b-dc3d-9186491a5dbd
+  name: Global Perspectives
+  pageRef: /pages/global-perspectives
+  weight: 50
+- identifier: 4271a69f-fa09-2b77-a1ff-259560ecf130
+  name: Microhistory
+  pageRef: /pages/microhistory
+  weight: 60
+- identifier: b4b85857-26a0-9c55-7be6-e00c527a2726
+  name: Environmental History
+  pageRef: /pages/environmental-history
+  weight: 70
+- identifier: d5acf813-bc67-8cfc-1f3c-9ca3f79d6c60
+  name: Women's History and Gender
+  pageRef: /pages/womens-history-and-gender
+  weight: 80
+- identifier: 7aaebafe-c540-d6fa-5194-b8076343bb13
+  name: 'Industrial Revolution: Why Britain?'
+  pageRef: /pages/industrial-revolution-why-britain
+  weight: 90
+- identifier: 0eb55ecc-7eed-57c2-09b3-2ff25dcdb754
+  name: 'Visual Culture: Definitions, Issues'
+  pageRef: /pages/visual-culture-definitions-issues
+  weight: 100
+- identifier: 0064e8c9-eca7-1428-1fe6-e565757943eb
+  name: 'Media Studies: 1450, 1890, 2010'
+  pageRef: /pages/media-studies-1450-1890-2010
+  weight: 110
+- identifier: 36ce9337-f122-243c-0bfb-6f57d3a01f9e
+  name: Digital Humanities
+  pageRef: /pages/digital-humanities
+  weight: 120
