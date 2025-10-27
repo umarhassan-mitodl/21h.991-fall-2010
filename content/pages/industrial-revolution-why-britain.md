@@ -2,8 +2,6 @@
 content_type: page
 description: This page contains readings, questions, and a list of further readings
   about the Industrial Revolution in Britain and around the world.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Industrial Revolution: Why Britain?'
@@ -15,7 +13,7 @@ Readings
 
 Allen, Robert C. _The British Industrial Revolution in Global Perspective_. Cambridge University Press, 2009, pp. 1-22, 135-275. ISBN: 9780521687850. Also skim "Part 1: The Pre-Industrial Economy."
 
-McCants, Anne. "[Exotic Goods, Popular Consumption, and the Standard of Living: Thinking about Globalization in the Early Modern World](http://dx.doi.org/10.1353/jwh.2008.0008)." _Journal of World History_ 18 (2007): 433-462.
+McCants, Anne. "{{% resource_link "abc91274-4969-41a3-bd55-3073de9c3869" "Exotic Goods, Popular Consumption, and the Standard of Living: Thinking about Globalization in the Early Modern World" %}}." _Journal of World History_ 18 (2007): 433-462.
 
 van Zanden, Jan Luiten. _The Long Road to the Industrial Revolution: The European Economy in a Global Perspective, 1000-1800_. Brill, 2009, pp. 69-91, 269-300. ISBN: 9789004175174.
 
@@ -54,7 +52,7 @@ Mokyr, Joel. _The Gifts of Athena: Historical Origins of the Knowledge Economy_.
 
 Pomeranz, Kenneth, and Steven Topik. _The World That Trade Created: Culture, Society and the World Economy, 1400 to the Present_. M.E. Sharpe, 2005. ISBN: 9780765617095.
 
-Pamuk, Sevket. "[The Black Death and the Origins of the Great Divergence across Europe](http://dx.doi.org/10.1017/S1361491607002031)." _European Review of Economic History_ 11 (December 2007): 289-317.
+Pamuk, Sevket. "{{% resource_link "39f14fce-a5ba-45ca-907e-17bb726e6c73" "The Black Death and the Origins of the Great Divergence across Europe" %}}." _European Review of Economic History_ 11 (December 2007): 289-317.
 
 de Vries, Jan. _The Industrious Revolution: Consumer Behavior and the Household Economy, 1650 to the Present_. Cambridge University Press, 2008. ISBN: 9780521719254.
 

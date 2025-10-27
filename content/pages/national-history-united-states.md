@@ -2,8 +2,6 @@
 content_type: page
 description: This page contains readings, questions, and a list of further readings
   about national history, using the United States as a focal example.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'National History: United States'
@@ -15,9 +13,9 @@ Readings
 
 Jefferson, Thomas. _Notes on the State of Virginia_. Edited by David Waldstreicher. Bedford/St. Martin's, 2002, pp. 1-38, 79-208. ISBN: 9780312257132.
 
-Turner, Frederick Jackson. "The Significance of the Frontier in American History." Chapter 1 in [_The Frontier in American History_](http://xroads.virginia.edu/~HYPER/TURNER/home.html). Henry Holt, 1921.
+Turner, Frederick Jackson. "The Significance of the Frontier in American History." Chapter 1 in {{% resource_link "06307705-ce58-4f80-9c58-ee8d0ca78326" "_The Frontier in American History_" %}}. Henry Holt, 1921.
 
-Smith, Henry Nash. "[The Myth of the Garden and Turner's Frontier Hypotheses](http://xroads.virginia.edu/~HYPER/HNS/chap22.html)." Chapter 22 in [_Virgin Land: The American West as Symbol and Myth_](http://xroads.virginia.edu/~HYPER/HNS/home.htm). Harvard University Press, 2007. ISBN: 9780674939554.
+Smith, Henry Nash. "{{% resource_link "708d5669-1fab-49dc-b56c-b5e498f4828d" "The Myth of the Garden and Turner's Frontier Hypotheses" %}}." Chapter 22 in {{% resource_link "acf2c8ee-45f2-4827-a304-de01533e4c2d" "_Virgin Land: The American West as Symbol and Myth_" %}}. Harvard University Press, 2007. ISBN: 9780674939554.
 
 Hofstadter, Richard. "The Frontier as an Explanation." Chapter 4 in _The Progressive Historians: Turner, Beard, Parrington_. Random House, 1985. ISBN: 9780394705910.
 

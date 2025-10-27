@@ -37,7 +37,7 @@ Chartier, Roger. "Texts, Symbols, and Frenchness." _Journal of Modern History_ 5
 
 LaCapra, Dominick. "Chartier, Darnton, and the Great Symbol Massacre." _Journal of Modern History_ 60 (March 1988): 95-112.
 
-Mah, Harold. "[Suppressing the Text: The Metaphysics of Ethnographic History in Darnton's Great Cat Massacre](http://dx.doi.org/10.1093/hwj/31.1.1)." _History Workshop Journal_ 31 (1991): 1-20.\]
+Mah, Harold. "{{% resource_link "847005e3-7e8c-42b6-b98c-6a169cebc2ff" "Suppressing the Text: The Metaphysics of Ethnographic History in Darnton's Great Cat Massacre" %}}." _History Workshop Journal_ 31 (1991): 1-20.\]
 
 Farge, Arlette, and Jacques Revel. _The Vanishing Children of Paris: Rumor and Politics Before the French Revolution_. Translated by Claudia Miéville. Harvard University Press, 1993. ISBN: 9780674931947.
 

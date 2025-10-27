@@ -2,8 +2,6 @@
 content_type: page
 description: This page contains readings, questions, and a list of further readings
   about borderlands and frontiers.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Borderlands
